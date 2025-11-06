@@ -28,7 +28,7 @@ Want to add your own .NET bot to the archive? Follow these steps:
 
 2. **Clone Your Fork**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Robocode-Tank-Royale-DOTNET-Archive.git
+   git clone --recurse-submodules https://github.com/YOUR_USERNAME/Robocode-Tank-Royale-DOTNET-Archive.git
    cd Robocode-Tank-Royale-DOTNET-Archive
   
 3. **Add Your Bot**
